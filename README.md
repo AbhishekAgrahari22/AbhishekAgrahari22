@@ -33,7 +33,7 @@
 ### 📫 Let's Connect!
 
 - 📧 Email: [abhishek9670177034@gmail.com](mailto:abhishek9670177034@gmail.com)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/abhishek-agrahari-5208431a0/)) <!-- Replace with your actual LinkedIn URL -->
+- 💼 [LinkedIn](www.linkedin.com/in/abhishek-agrahari-5208431a0) <!-- Replace with your actual LinkedIn URL -->
 - 📄 [My Resume](https://github.com/AbhishekAgrahari22/AbhishekAgrahari22/blob/main/Abhishek_Agrahari_Resume.pdf) <!-- Upload your resume and update the link -->
 
 ---
