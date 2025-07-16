@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Agrahari</h1>
-<h3 align="center">Android & Flutter Developer | React Frontend Developer | Backend Enthusiast</h3>
+<h3 align="center"> Flutter Developer | React Frontend Developer | Backend Enthusiast</h3>
 
 ---
 
