@@ -13,10 +13,7 @@ With experience in real-time data handling, REST APIs, and state management, I s
 
 ### 📫 Contact Me:
 
-- ✉️ Email: abhishek9670177034@gmail.com  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-agrahari-5208431a0)  
-- 📍 Location: Noida, India  
-
+- ✉️ Email: abhishek9670177034@gmail.com   
 ---
 
 ### 🚀 Tech Stack:
