@@ -17,8 +17,6 @@ With experience in real-time data handling, REST APIs, and state management, I s
 - 🔗 [LinkedIn](https://www.linkedin.com/in/abhishek-agrahari-5208431a0)  
 - 📍 Location: Noida, India  
 - 🌐 Portfolio: *(add your Vercel link if available)*  
-- 🐦 Twitter: *(optional)*  
-- 📸 Instagram: *(optional)*
 
 ---
 
@@ -52,14 +50,17 @@ With experience in real-time data handling, REST APIs, and state management, I s
 
 ### 📈 GitHub Stats:
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=github_dark)
-![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=github-dark)
+![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=github_dark)
+
+![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhishekAgrahari22&theme=github-dark)
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=react-dark)
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=your-username&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
@@ -81,9 +82,3 @@ With experience in real-time data handling, REST APIs, and state management, I s
 - Java – Codedamn  
 - Problem Solving – HackerRank  
 - Competitive Programming – CodeChef  
-
----
-
-### 📅 Contributions:
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=react-dark)
