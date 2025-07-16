@@ -11,11 +11,6 @@ With experience in real-time data handling, REST APIs, and state management, I s
 
 ---
 
-### 📫 Contact Me:
-
-- ✉️ Email: abhishek9670177034@gmail.com   
----
-
 ### 🚀 Tech Stack:
 
 #### **Languages & Tools**
