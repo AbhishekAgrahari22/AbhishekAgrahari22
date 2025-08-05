@@ -1,37 +1,45 @@
-<h1 align="center">Hi 👋, I'm Abhishek Agrahari</h1>
-<h3 align="center"> Flutter Developer | React Frontend Developer | Backend Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Abhishek Agrahari</h1>
+<h3 align="center">Flutter Developer • React Frontend Developer • Backend Enthusiast</h3>
+
+<p align="center">
+  <a href="https://abhishek-agrahari-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> • 
+  <a href="https://www.linkedin.com/in/abhishek-agrahari22" target="_blank">💼 LinkedIn</a> • 
+  <a href="mailto:abhishekagrahari22@gmail.com">📧 Email</a>
+</p>
 
 ---
 
-### 🧑‍💻 About Me:
+### 🧑‍💻 About Me
 
-I'm Abhishek Agrahari, a versatile Android and Flutter developer with strong knowledge in frontend and backend technologies. I specialize in building high-performance, cross-platform mobile apps and dynamic web dashboards using tools like Flutter, React.js, Redux, and Node.js.
+I'm a passionate full-stack developer with a strong focus on cross-platform mobile apps and responsive web dashboards. I specialize in **Flutter**, **React.js**, and **Node.js**, and love building seamless user experiences powered by real-time data and clean architecture.
 
-With experience in real-time data handling, REST APIs, and state management, I strive to write clean, scalable, and maintainable code. I enjoy solving complex problems and working in agile teams to bring ideas to life across Android, iOS, and web platforms.
+- 🧠 Problem solver, code optimist, and tech learner.
+- 🛠️ Enjoy building scalable apps from scratch to production.
+- 🏗️ Familiar with agile environments and startup culture.
 
 ---
 
-### 🚀 Tech Stack:
+### 🚀 Tech Stack
 
-#### **Languages & Tools**
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
+#### 💻 Languages
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
 
-#### **Mobile & Web**
+#### 📱 Mobile & Web
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
 
-#### **Backend & DB**
+#### ⚙️ Backend & Database
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
 
-#### **Tools**
+#### 🛠️ Tools & DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
@@ -39,37 +47,49 @@ With experience in real-time data handling, REST APIs, and state management, I s
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats
 
-![Abhishek's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=github_dark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekAgrahari22&theme=github-dark" height="150" />
+</p>
 
-![Abhishek's GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AbhishekAgrahari22&theme=github-dark)
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=react-dark)
-
----
-
-### 🏆 GitHub Trophies:
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=react-dark" />
+</p>
 
 ---
 
-### 📌 Pinned Projects
+### 🏆 GitHub Trophies
 
-- **Office Dashboard (Flutter, Dart)**  
-  Responsive internal dashboard with user role management and real-time analytics.
-
-- **Green Connect App (Flutter, Node.js, Firebase)**  
-  Eco-awareness app with Firebase Auth, Firestore, push notifications, and UI-first design.
-
-- **AI Chatbot (Python, ML, Flask)**  
-  NLP-based intelligent chatbot deployed on a web interface with APIs.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=onedark&margin-w=10&no-frame=true" />
+</p>
 
 ---
 
-### 🧾 Certifications:
+### 📌 Featured Projects
 
-- Java – Codedamn  
-- Problem Solving – HackerRank  
-- Competitive Programming – CodeChef  
+- **📊 Office Dashboard** (Flutter + Dart)  
+  Internal admin dashboard with real-time analytics, role-based access, and responsiveness.
+
+- **🌱 Green Connect App** (Flutter + Node.js + Firebase)  
+  Eco-conscious app promoting sustainability, integrated with Firebase Auth, Firestore, and push notifications.
+
+- **🤖 AI Chatbot** (Python + ML + Flask)  
+  Natural language chatbot with REST API integration and a web-based frontend.
+
+---
+
+### 🧾 Certifications
+
+- ✔️ Java – *Codedamn*  
+- ✔️ Problem Solving – *HackerRank*  
+- ✔️ Competitive Programming – *CodeChef*
+
+---
+
+📣 *Always eager to collaborate on open-source and meaningful projects!*
+
+---
+
