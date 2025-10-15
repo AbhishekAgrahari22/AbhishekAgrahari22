@@ -44,7 +44,7 @@ With expertise in **Flutter**, **React.js**, and **Node.js**, I specialize in bu
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=tokyo-night&area=true&hide_border=true" />
 </p>
 
 ---
