@@ -39,7 +39,6 @@ With expertise in **Flutter**, **React.js**, and **Node.js**, I specialize in bu
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160em" src="https://streak-stats.demolab.com?user=AbhishekAgrahari22&theme=tokyonight&hide_border=true" />
 </p>
 
