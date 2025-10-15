@@ -31,6 +31,7 @@ With expertise in **Flutter**, **React.js**, and **Node.js**, I specialize in bu
 | **DevOps / Tools** | Git • Docker • Figma • AWS • Postman |
 
 <p align="center">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=tokyonight&hide_border=true"/>
   <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,java,javascript,python,git,docker,figma,aws,mongodb" />
 </p>
 
