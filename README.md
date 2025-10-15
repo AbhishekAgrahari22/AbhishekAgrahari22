@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Abhishek Agrahari</h1>
+<h1 align="center">👋 Hi, I'm <span style="color:#0078FF;">Abhishek Agrahari</span></h1>
 <h3 align="center">Flutter Developer • React Frontend Developer • Backend Enthusiast</h3>
 
 <p align="center">
@@ -9,87 +9,80 @@
 
 ---
 
-### 🧑‍💻 About Me
+## 🧑‍💻 About Me
 
-I'm a passionate full-stack developer with a strong focus on cross-platform mobile apps and responsive web dashboards. I specialize in **Flutter**, **React.js**, and **Node.js**, and love building seamless user experiences powered by real-time data and clean architecture.
+I’m a **Full-Stack Developer** with a passion for crafting modern, performant, and visually engaging applications.  
+With expertise in **Flutter**, **React.js**, and **Node.js**, I specialize in building seamless user experiences across mobile and web.
 
-- 🧠 Problem solver, code optimist, and tech learner.
-- 🛠️ Enjoy building scalable apps from scratch to production.
-- 🏗️ Familiar with agile environments and startup culture.
-
----
-
-### 🚀 Tech Stack
-
-#### 💻 Languages
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python)
-
-#### 📱 Mobile & Web
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat&logo=android-studio)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux)
-
-#### ⚙️ Backend & Database
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql)
-
-#### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws)
+- 🔍 I enjoy solving real-world problems with clean and scalable code  
+- 🚀 Experienced in building apps from prototype to production  
+- 🤝 Open to collaborations and open-source contributions  
+- 💡 Love experimenting with UI/UX and data-driven architecture  
 
 ---
 
-### 📊 GitHub Stats
+## 🧠 Tech Stack
+
+| Category | Technologies |
+|:----------|:-------------|
+| **Languages** | Dart • Java • JavaScript • C++ • Python |
+| **Frontend / Mobile** | Flutter • React.js • Redux • Android Studio |
+| **Backend / DB** | Node.js • Firebase • SQL • MongoDB |
+| **DevOps / Tools** | Git • Docker • Figma • AWS • Postman |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekAgrahari22&theme=github-dark" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=react-dark" />
+  <img src="https://skillicons.dev/icons?i=flutter,react,nodejs,firebase,java,javascript,python,git,docker,figma,aws,mongodb" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=onedark&margin-w=10&no-frame=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com?user=AbhishekAgrahari22&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 🏆 GitHub Achievements
 
-- **📊 Office Dashboard** (Flutter + Dart)  
-  Internal admin dashboard with real-time analytics, role-based access, and responsiveness.
-
-- **🌱 Green Connect App** (Flutter + Node.js + Firebase)  
-  Eco-conscious app promoting sustainability, integrated with Firebase Auth, Firestore, and push notifications.
-
-- **🤖 AI Chatbot** (Python + ML + Flask)  
-  Natural language chatbot with REST API integration and a web-based frontend.
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=tokyonight&margin-w=10&no-frame=true" />
+</p>
 
 ---
 
-### 🧾 Certifications
+## 🚀 Featured Projects
 
-- ✔️ Java – *Codedamn*  
-- ✔️ Problem Solving – *HackerRank*  
-- ✔️ Competitive Programming – *CodeChef*
-
----
-
-📣 *Always eager to collaborate on open-source and meaningful projects!*
+| Project | Description | Tech |
+|:--------|:-------------|:----|
+| **📊 Office Dashboard** | Real-time admin dashboard with role-based access and analytics | Flutter, Dart |
+| **🌱 Green Connect App** | Eco-awareness app linking users to sustainability initiatives | Flutter, Node.js, Firebase |
+| **🤖 AI Chatbot** | NLP-powered chatbot with Flask REST API | Python, ML, Flask |
 
 ---
 
+## 🧾 Certifications
+
+- 🥇 **Java** – Codedamn  
+- 🧩 **Problem Solving** – HackerRank  
+- 🏅 **Competitive Programming** – CodeChef  
+
+---
+
+## 💬 Let’s Connect
+
+<p align="center">
+  <a href="https://abhishek-agrahari-portfolio.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/abhishek-agrahari22" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abhishekagrahari22@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">⚡ “Code is like humor. When you have to explain it, it’s bad.”</p>
