@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://abhishek-agrahari-portfolio.vercel.app" target="_blank">🌐 Portfolio</a> • 
-  <a href="https://www.linkedin.com/in/abhishek-agrahari22" target="_blank">💼 LinkedIn</a> • 
+  <a href="https://www.linkedin.com/in/abhishek-agrahari-5208431a0/" target="_blank">💼 LinkedIn</a> • 
   <a href="mailto:abhishekagrahari22@gmail.com">📧 Email</a>
 </p>
 
