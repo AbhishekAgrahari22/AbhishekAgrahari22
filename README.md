@@ -72,7 +72,7 @@ Git • Docker • AWS • Figma • Postman • Android Studio
 ## 🏆 Achievements & Developer Identity
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=tokyonight&no-frame=true&margin-w=12" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=tokyonight&no-frame=true&margin-w=15&v=1" />
 </p>
 
 ---
