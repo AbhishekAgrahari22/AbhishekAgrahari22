@@ -69,8 +69,6 @@ Git • Docker • AWS • Figma • Postman • Android Studio
 
 ---
 
-## 🏆 Achievements & Developer Identity
-
 ## 🏆 Developer Highlights
 
 - ⭐ Active Full-Stack & Flutter Developer  
@@ -80,8 +78,9 @@ Git • Docker • AWS • Figma • Postman • Android Studio
 - 🤝 Open-source contributor & collaborator  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekAgrahari22&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
 
 ---
 
