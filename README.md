@@ -71,8 +71,16 @@ Git • Docker • AWS • Figma • Postman • Android Studio
 
 ## 🏆 Achievements & Developer Identity
 
+## 🏆 Developer Highlights
+
+- ⭐ Active Full-Stack & Flutter Developer  
+- 🚀 Building scalable mobile & web applications  
+- 💡 Strong focus on clean architecture & performance  
+- 🧠 Passionate about backend & system design  
+- 🤝 Open-source contributor & collaborator  
+
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AbhishekAgrahari22&theme=tokyonight&no-frame=true&margin-w=15&v=1" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
