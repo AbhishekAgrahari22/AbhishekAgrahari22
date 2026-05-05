@@ -1,72 +1,76 @@
 # Abhishek Agrahari
 
-![Animated Header](your-animated-header-link)
+![Animated Header](your-animated-header-link) <!-- Replace with your animated header link -->
 
-## About Me
+## 🚀 About Me
 
-![Open to Work](your-open-to-work-badge-link)
+[![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge)](your-open-to-work-badge-link)
 
-I am a dedicated and passionate software developer actively seeking new job opportunities. With a strong foundation in coding and a drive to learn and grow, I am open to work in full-time, part-time, contract, freelance, or remote roles.
+I am a dedicated and passionate Software Developer actively seeking new opportunities. With a strong foundation in modern web technologies and a drive to build impactful applications, I am open to **full-time, part-time, contract, freelance, or remote** roles. I thrive in collaborative environments and am constantly learning to stay ahead of the curve.
 
-## Technical Skills
+---
 
-- **Programming Languages:**
-  - ![Python](link-to-icon) Python
-  - ![JavaScript](link-to-icon) JavaScript
-  - ![HTML/CSS](link-to-icon) HTML/CSS
+## 💻 Technical Skills
 
-- **Frameworks & Libraries:**
-  - ![React](link-to-icon) React
-  - ![Node.js](link-to-icon) Node.js
+*   **Programming Languages:** ![Python](link-to-icon) Python | ![JavaScript](link-to-icon) JavaScript | ![HTML/CSS](link-to-icon) HTML/CSS
+*   **Frameworks & Libraries:** ![React](link-to-icon) React.js | ![Node.js](link-to-icon) Node.js
+*   **Databases:** ![MySQL](link-to-icon) MySQL | ![MongoDB](link-to-icon) MongoDB
+*   **Tools & Platforms:** Git, GitHub, VS Code
 
-- **Databases:**
-  - ![MySQL](link-to-icon) MySQL
-  - ![MongoDB](link-to-icon) MongoDB
+---
 
-## Professional Experience
+## 💼 Professional Experience
 
 ### RTF Insurance Broker
-*Software Developer*  
-*Dates of Employment*  
-- Developed and maintained applications to improve efficiency
-- Collaborated with a team to enhance user experience
+**Software Developer** | *[Month, Year] – [Month, Year or Present]*
+*   Developed and maintained scalable software applications to streamline internal processes and improve operational efficiency.
+*   Collaborated cross-functionally with team members to design intuitive interfaces, significantly enhancing the overall user experience.
+*   Identified and resolved software bugs, ensuring system stability and high performance.
 
-## Featured Projects
+---
 
-- **[Shadiglam](link-to-project)**: A platform for wedding planning
-- **[AarogyaShield](link-to-project)**: A health insurance management system
-- **[Recipe Finder](link-to-project)**: An application to search recipes based on ingredients
+## 🛠️ Featured Projects
 
-## GitHub Statistics
+*   **[Shadiglam](link-to-project):** A comprehensive digital platform designed to streamline wedding planning, featuring user-friendly dashboards and management tools.
+*   **[AarogyaShield](link-to-project):** A robust health insurance management system built to handle user data securely and efficiently.
+*   **[Recipe Finder](link-to-project):** A dynamic web application that allows users to seamlessly search for customized recipes based on their available ingredients.
 
-![GitHub Stats](link-to-stats)
+---
 
-## Achievements
+## 🎓 Education
 
-- [Certification Name 1]
-- [Certification Name 2]
+**G L Bajaj Institute**
+*Bachelor's Degree in Computer Science* | *[Start Year] – [Graduation Year]*
 
-## Education
+---
 
-**G L Bajaj Institute**  
-Bachelor's Degree in Computer Science
+## 🏆 Achievements & Certifications
 
-## Soft Skills
+*   [Certification Name 1 - e.g., AWS Certified Developer / Meta Front-End Developer] 
+*   [Certification Name 2]
 
-- Communication
-- Problem-solving
-- Teamwork
+---
 
-## Interests
+## 📈 GitHub Statistics
 
-- Software Development
-- Open Source Contributions
+![GitHub Stats](link-to-stats) <!-- Recommendation: Use github-readme-stats for dynamic badges! -->
 
-## Contact
+---
 
-- Phone: [Your Phone Number]
-- Resume: [Link to Resume]
+## 🤝 Soft Skills & Interests
 
-**Available for:** Full-time / Part-time / Contract / Freelance / Remote  
+*   **Soft Skills:** Clear Communication, Strategic Problem-Solving, Collaborative Teamwork, Adaptability.
+*   **Interests:** Full-Stack Software Development, Open Source Contributions, Continuous Learning.
 
-_Last updated: 2026-04-30 12:13:49 UTC_
+---
+
+## 📫 Let's Connect
+
+*   **Phone:** [Your Phone Number]
+*   **Email:** [Your Email Address]
+*   **LinkedIn:** [Link to LinkedIn]
+*   **Resume:** [Link to Resume PDF]
+
+> **Available for:** Full-time | Part-time | Contract | Freelance | Remote
+
+*Last updated: 2026-05-05*
