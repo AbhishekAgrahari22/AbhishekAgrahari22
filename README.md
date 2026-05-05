@@ -1,32 +1,55 @@
 # Abhishek Agrahari
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=27B2F6&width=600&lines=Hi+there,+I'm+Abhishek!+👋;Passionate+Software+Developer;Welcome+to+my+GitHub+Profile!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=27B2F6&width=600&lines=Hi+there,+I'm+Abhishek!+👋;Flutter+%26+Full-Stack+Developer;Welcome+to+my+GitHub+Profile!)
 
 ## 🚀 About Me
 
 [![Open to Work](https://img.shields.io/badge/Status-Open_to_Work-success?style=for-the-badge&logo=github)](https://github.com/AbhishekAgrahari22)
+[![Location](https://img.shields.io/badge/Location-Noida%2C%20India-blue?style=for-the-badge&logo=google-maps)](#)
 
-I am a dedicated and passionate Software Developer actively seeking new opportunities. With a strong foundation in modern web technologies and a drive to build impactful applications, I am open to **full-time, part-time, contract, freelance, or remote** roles. I thrive in collaborative environments and am constantly learning to stay ahead of the curve.
+I am a **Flutter & Full-Stack Developer** focused on building high-performance, scalable, and user-centric applications for mobile and web platforms. I specialize in **Flutter, React.js, and Node.js**, and I love designing robust backend systems and modern UI experiences. 
+
+*   🚀 Developing production-ready apps with clean architecture and scalable design.
+*   📱 Building cross-platform mobile applications with Flutter.
+*   🌐 Creating responsive and high-performance web applications using React.
+*   ⚙️ Designing APIs and backend systems with Node.js & Firebase.
+*   🎨 Passionate about UI/UX, system design, and performance optimization.
+*   🤝 Open to collaborations, startups, and open-source contributions.
+
+⚡ *"I build scalable apps, not just features."*
 
 ---
 
-## 💻 Technical Skills
+## 💻 Core Skills
 
 **Programming Languages**  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+**Frontend & Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+**Backend & Databases**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-
-**Databases & Tools**  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
@@ -42,50 +65,42 @@ I am a dedicated and passionate Software Developer actively seeking new opportun
 
 ## 🛠️ Featured Projects
 
-*   **[Shadiglam](https://github.com/AbhishekAgrahari22/YOUR-REPO-LINK):** A comprehensive digital platform designed to streamline wedding planning, featuring user-friendly dashboards and management tools.
-*   **[AarogyaShield](https://github.com/AbhishekAgrahari22/YOUR-REPO-LINK):** A robust health insurance management system built to handle user data securely and efficiently.
-*   **[Recipe Finder](https://github.com/AbhishekAgrahari22/YOUR-REPO-LINK):** A dynamic web application that allows users to seamlessly search for customized recipes based on their available ingredients.
+*   📊 **[Smart Office Dashboard](https://github.com/AbhishekAgrahari22/responsive-dashboard-flutter):** Real-time admin dashboard with analytics, charts, and role-based access. *(Built with: Flutter, Dart)*
+*   🌱 **[Green Connect Platform](https://github.com/AbhishekAgrahari22):** Eco-focused mobile app connecting users with sustainability initiatives. *(Built with: Flutter, Node.js, Firebase)*
+*   🤖 **[AI Chatbot System](https://github.com/AbhishekAgrahari22):** NLP-based chatbot with REST API and Machine Learning integration. *(Built with: Python, Flask, ML)*
+*   👨‍🍳 **[Chef App](https://github.com/AbhishekAgrahari22/Chef_App):** Interactive mobile application. *(Built with: Flutter, Dart)*
 
 ---
 
-## 🎓 Education
+## 🎓 Education & Certifications
 
-**G L Bajaj Institute**
-*Bachelor's Degree in Computer Science* | *[Start Year] – [Graduation Year]*
+🎓 **G L Bajaj Institute of Technology and Management (GLBITM)**  
+*Bachelor's Degree in Computer Science*
 
----
-
-## 🏆 Achievements & Certifications
-
-*   [Certification Name 1 - e.g., Meta Front-End Developer] 
-*   [Certification Name 2 - e.g., AWS Certified Developer]
+🏆 **Certifications & Learning**
+*   🥇 **Java Programming** – Codedamn
+*   🧩 **Problem Solving** – HackerRank
+*   🏅 **Competitive Programming** – CodeChef
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekAgrahari22&theme=radical" alt="Abhishek's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=radical&hide_border=true" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekAgrahari22&theme=radical&hide_border=true" alt="Abhishek's GitHub Streak" />
 </div>
 
 ---
 
-## 🤝 Soft Skills & Interests
+## 📫 Let's Connect & Collaborate
 
-*   **Soft Skills:** Clear Communication, Strategic Problem-Solving, Collaborative Teamwork, Adaptability.
-*   **Interests:** Full-Stack Software Development, Open Source Contributions, Continuous Learning.
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN-PROFILE)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-agrahari-5208431a0)
+[![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/u/abhi112233/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white)](YOUR-PORTFOLIO-LINK)
 
-*   **Phone:** [Your Phone Number]
-*   **Resume:** [Link to Resume PDF]
+*   **Phone:** +91 6388381483
+*   **Location:** Noida, India
 
 > **Available for:** Full-time | Part-time | Contract | Freelance | Remote
 
