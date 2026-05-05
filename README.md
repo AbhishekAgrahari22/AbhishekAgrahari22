@@ -87,8 +87,7 @@ I am a **Flutter & Full-Stack Developer** focused on building high-performance, 
 ## 📈 GitHub Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekAgrahari22&show_icons=true&theme=radical&hide_border=true" alt="Abhishek's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbhishekAgrahari22&theme=radical&hide_border=true" alt="Abhishek's GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbhishekAgrahari22&bg_color=141321&color=0f0&line=27B2F6&point=FFFFFF&hide_border=true&theme=react" alt="Abhishek's GitHub Activity Graph" />
 </div>
 
 ---
