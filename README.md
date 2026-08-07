@@ -56,7 +56,7 @@ I am a **Flutter & Full-Stack Developer** focused on building high-performance, 
 ## 💼 Professional Experience
 
 ### RTF Insurance Broker
-**Software Developer** | *[Month, Year] – [Month, Year or Present]*
+**Software Developer** | *[july, 2024] – present*
 *   Developed and maintained scalable software applications to streamline internal processes and improve operational efficiency.
 *   Collaborated cross-functionally with team members to design intuitive interfaces, significantly enhancing the overall user experience.
 *   Identified and resolved software bugs, ensuring system stability and high performance.
